@@ -2,10 +2,10 @@
 
 
 ## 🚀 About Me
-- 💻 Full Stack developer (MERN/MEAN → expanding towards broader backend skills)  
+- 💻 Full Stack developer (MERN/MEAN → expanding towards broader backend)  
 - 🔐 Experience with authentication, payments & deployed systems  
 - 🧠 Knowledgable in LLD, now honing system design skills  
-- ⚡ Leveling up my DSA skills
+- ⚡ Leveling up my DSA
 
 
 ## 🤝 Open to
