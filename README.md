@@ -1,15 +1,18 @@
 # 👋 Hi, I'm Shashank Rajput
 
+
 ## 🚀 About Me
 - 💻 Full Stack developer (MERN/MEAN → expanding towards broader backend skills)  
 - 🔐 Experience with authentication, payments & deployed systems  
 - 🧠 Knowledgable in LLD, now honing system design skills  
 - ⚡ Leveling up my DSA skills
 
+
 ## 🤝 Open to
 - Backend collaborations  
 - Open-source contributions  
 - Learning & working with Go  
+
 
 ## 🛠️ Languages and Tools
 
@@ -30,15 +33,16 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-cyan?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge)
 
+
 ## 📚 Currently Learning
 - Advanced DSA  
 - System Design (honing learned skills)
+
 
 ## 🌐 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-red)](mailto:shashankrajput.coder@gmail.com)
 
----
 
 ## ⚡ Fun Fact
 I debug better at night than in the morning ☕
